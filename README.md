@@ -17,7 +17,7 @@ Documentation Here
 
 ## Distribute
 
-- [Service Name](https://prisonbreak8.github.io/portfolio-cv/portfolio-cv/)
+- [Service Name](https://prisonbreak8.github.io/responsive-portfolio-website-Artur/responsive-portfolio-website-Artur/home.html)
 
 
 ## Developers
